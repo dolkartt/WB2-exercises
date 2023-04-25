@@ -1,6 +1,6 @@
 
-var asset = 200000;
-var debt = 25000;
+let asset = 200000;
+let debt = 25000;
 
 //Calculations
 netWorth = asset + debt;
